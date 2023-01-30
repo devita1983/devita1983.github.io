@@ -1,25 +1,3 @@
-# Introduction
-
-Want a website instead of a GitHub repo? [https://nasa.github.io/Transform-to-Open-Science/](https://nasa.github.io/Transform-to-Open-Science/)
-
-Ready to get started transforming towards open science with us? Get started [here!](./CONTRIBUTING.md) 
-
-Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-# Announcements!
-- Biden-⁠Harris Administration Announces New Actions to Advance Open and Equitable Research [factsheet](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)
-- Nature Article: [Why NASA and federal agencies are declaring this the Year of Open Science](https://www.nature.com/articles/d41586-023-00019-y) 
-- Federal [portal](https://open.science.gov/)
-- TOPS was at the AMS 2023 meeting! If you missed us, you can find all our presentations on our [Zenodo](https://doi.org/10.5281/zenodo.7554803). If you met us at AMS and are just checking out our repo for the first time - Welcome! We are so excited you are here. 
-- NASA's new Science Information Policy has been released! You can find resources, frequently asked questions and the full text of the policy at [science.nasa.gov](https://science.nasa.gov/researchers/science-data/science-information-policy). At TOPS, we are especially excited about the [Open-Source Science Guidance for researchers funded by NASA's Science Mission Directorate](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v1%2020221208.pdf)
-- SMD's Data Portal has been [launched](https://science.data.nasa.gov/)! Explore NASA's science data as you explore open science. 
-- Proposal [guidance](./docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
-- Open Science funding [opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
-- Open Science [stories](https://science.nasa.gov/open-science/transform-to-open-science/stories)
-- [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
-
 
 <img align="right" src="https://user-images.githubusercontent.com/117879893/215277992-302291a2-5c7d-4647-96c2-f8f60ae5d2f6.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
