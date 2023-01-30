@@ -21,7 +21,7 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 - [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
 
 
-<img align="right" src="./docs/Area1_Engagement/branding_graphics/Tops_Badge_Nasa.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
+<img align="right" src="https://user-images.githubusercontent.com/117879893/215277992-302291a2-5c7d-4647-96c2-f8f60ae5d2f6.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
 # Transform to Open Science (TOPS)
 
